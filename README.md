@@ -16,7 +16,7 @@ Volunteer Connect is a comprehensive platform that bridges the gap between volun
 
 - Create and manage volunteer events
 - Join community service activities
-- Track volunteer hours and impact
+- Track volunteer events and impact
 - Form teams for collaborative projects
 - Request and offer help within the community
 
@@ -69,16 +69,13 @@ The platform features a modern, responsive interface with real-time updates and 
 - Category-based filtering
 - Search functionality
 - Real-time updates
-- Location mapping
 - Participant management
 
 ### Community Features
 
 - Team creation and management
 - Help request system
-- Real-time notifications
 - Impact tracking
-- Achievement system
 
 ## 📊 Database Schema
 
