@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# IDE / editors
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+
+
+
+backend/
+├── src/
+│   ├── models/          
+│   │   ├── User.js
+│   │   ├── Event.js
+│   │   ├── HelpRequest.js
+│   │   └── Team.js
+│   ├── controllers/     
+│   │   ├── authController.js
+│   │   ├── eventController.js
+│   │   ├── helpRequestController.js
+│   │   └── teamController.js
+│   ├── routes/         
+│   │   ├── auth.js
+│   │   ├── events.js
+│   │   ├── helpRequests.js
+│   │   └── teams.js
+│   ├── middleware/     
+│   │   ├── auth.js
+│   │   └── validation.js
+│   ├── config/        
+│   │   └── db.js
+│   ├── utils/         
+│   │   └── helpers.js
+│   └── server.js      
+├── package.json
+├── .env
+└── .gitignore
