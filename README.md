@@ -1,4 +1,4 @@
-# 🌟 Volunteer Connect
+# 🌟 Hands ON
 
 <div align="center">
 
